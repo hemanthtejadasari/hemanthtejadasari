@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on **Online code editor (IDE)**
 
-- 👨‍💻 All of my projects are available at [hemanthteja.com](hemanthteja.com)
+- 👨‍💻 All of my projects are available at hemanthteja.com
 
-- 📝 I regularly write articles on [letuscrack.com](letuscrack.com)
+- 📝 I regularly write articles on letuscrack.com
 
 - 💬 Ask me about **Html,CSS, Hs**
 
 - 📫 How to reach me **heman10th@gmail.com**
 
-- 📄 Know about my experiences [hemanthteja.com](hemanthteja.com)
+- 📄 Know about my experiences hemanthteja.com
 
 - ⚡ Fun fact **I do what ever I want**
 
