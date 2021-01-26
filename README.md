@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanthtejadasari&show_icons=true&locale=en" alt="hemanthtejadasari" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemanthtejadasari&theme=dark)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
