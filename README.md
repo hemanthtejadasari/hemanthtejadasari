@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on letuscrack.com
 
-- 💬 Ask me about **Html,CSS, Hs**
+- 💬 Ask me about **Html,CSS, Js**
 
 - 📫 How to reach me **heman10th@gmail.com**
 
